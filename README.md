@@ -290,7 +290,7 @@ Open a pull request with a clear description of changes.
 
 Keep simulations synthetic and ethically safe.
 
-📜 License
+📜 License\n
 This project is provided under the MIT License — see LICENSE (add if you want to include it). You are free to use and adapt this PoC for education and research.
 
 📬 Contact & Acknowledgements
