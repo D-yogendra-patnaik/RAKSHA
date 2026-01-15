@@ -280,6 +280,7 @@ Add analytics dashboards for organizations (NGOs, schools) to track effectivenes
 Replace SQLite with Postgres and add CI/CD pipelines.
 
 🤝 Contributing
+
 Contributions welcome! A simple guideline:
 
 Fork the repo and create a feature branch.
@@ -290,7 +291,8 @@ Open a pull request with a clear description of changes.
 
 Keep simulations synthetic and ethically safe.
 
-📜 License\n
+📜 License
+
 This project is provided under the MIT License — see LICENSE (add if you want to include it). You are free to use and adapt this PoC for education and research.
 
 📬 Contact & Acknowledgements
